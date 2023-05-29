@@ -16,8 +16,8 @@ Step 11:Plot the error convergence during training using plt.plot() and plt.show
 
 ## Program:
 ```
-Name : Akash A
-Register Number : 212221230003
+Name : Pragatheesvaran AB
+Register Number : 212221240039
 ```
 ```
 import numpy as np
